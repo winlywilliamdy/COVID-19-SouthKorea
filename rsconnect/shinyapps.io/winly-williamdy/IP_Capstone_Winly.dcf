@@ -1,0 +1,13 @@
+name: IP_Capstone_Winly
+title: IP_Capstone_Winly
+username:
+account: winly-williamdy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3433822
+bundleId: 4038253
+url: https://winly-williamdy.shinyapps.io/IP_Capstone_Winly/
+when: 1609235966.63809
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test2.Rmd

@@ -1,0 +1,13 @@
+name: LBB_IP_Winly
+title: LBB_IP_Winly
+username:
+account: winly-williamdy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3421590
+bundleId: 4038208
+url: https://winly-williamdy.shinyapps.io/LBB_IP_Winly/
+when: 1609234624.97256
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: test2.Rmd
